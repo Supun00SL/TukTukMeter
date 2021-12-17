@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:title="Home"
+
+            />
+        <item
+            android:id="@+id/nav_choosevehi"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="Choose Vehicle" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_income"
+            android:icon="@drawable/ic_local_atm_black_24dp"
+            android:title="Income" />
+        <item
+            android:id="@+id/nav_progress"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="Progress" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

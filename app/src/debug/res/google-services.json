@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1079112434462",
+    "firebase_url": "https://easyjourney-1528166344845.firebaseio.com",
+    "project_id": "easyjourney-1528166344845",
+    "storage_bucket": "easyjourney-1528166344845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079112434462:android:6f5a1c53dd57bf8c",
+        "android_client_info": {
+          "package_name": "com.Anonymous.EasyJourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079112434462-ik3t4db5r6gm1litk25nlrau3lu9vo1t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1079112434462-ik3t4db5r6gm1litk25nlrau3lu9vo1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChezi8juXAWqAxffee6-1cWIMYyh3thVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
